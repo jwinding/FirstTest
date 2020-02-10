@@ -6,3 +6,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.panda {
+    width: 100%;
+    min-height: 300px;
+    height: 15%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background: url("panda.jpg");
+    display: inline-block;
+}
+.panda:hover {
+    background-image: url("pandaMouthOpen.jpg");
+ } 
