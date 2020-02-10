@@ -19,3 +19,18 @@ body {
 .panda:hover {
     background-image: url("pandaMouthOpen.jpg");
  } 
+    background-color: rgb(20, 161, 161)1, 160, 160);
+}
+
+.dotted-border{
+    border: dotted 5px black;
+    padding: 5px;
+    /* margin:5px;  */
+}
+
+p {
+    border: solid 5px rgb(66, 66, 66);
+    border-radius: 20px;
+    padding: 5px; 
+    margin: 2px;
+}
