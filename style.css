@@ -7,3 +7,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(20, 161, 161)1, 160, 160);
 }
+
+.dotted-border{
+    border: dotted 5px black; 
+}
